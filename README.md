@@ -1,4 +1,7 @@
 # hello-world
-Testing GitHub-Flows
+---
+1. Testing **GitHub-Flows**
+2. Testing new features in *readme-edits* branch
+3. Testing **Markdown**
 
-Testing new features in readme-edits branch
+~~WOW~~ :slightly_smiling_face:
